@@ -1,15 +1,22 @@
 <h1 align="center">Hello, I am moru3</h1>
 <h3 align="center">I am a Japanese student and a developer of Bukkit Plugin, Backend.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=moru348" alt="moru348" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/moru3_48" target="blank"><img src="https://img.shields.io/twitter/follow/moru3_48?logo=twitter&style=for-the-badge" alt="moru3_48" /></a> </p>
 
+- 🔭 I’m currently working on **SQLow, MiPie, MarsTools, And more..**
+
+- 🌱 I’m currently learning **C++**
+
+- 👨‍💻 All of my projects are available at [https://moru3.dev/](https://moru3.dev/)
+
 - 📫 How to reach me **moru0348@outlook.com**
+
+- ⚡ Fun fact **...?**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/moru3_48" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="moru3_48" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/uc7fhhmsbzyvb99chralzwwa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="uc7fhhmsbzyvb99chralzwwa" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
