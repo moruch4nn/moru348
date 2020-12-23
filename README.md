@@ -11,7 +11,6 @@
 
 - 📫 How to reach me **moru0348@outlook.com**
 
-- ⚡ Fun fact **...?**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
