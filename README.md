@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **C++**
 
-- 👨‍💻 My site is [https://moru3.dev/](https://moru3.dev/)
-
 - 📫 How to reach me **moru0348@outlook.com**
 
 
