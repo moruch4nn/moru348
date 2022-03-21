@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **C++**
 
-- 📫 How to reach me **moru0348@gmail.com**
+- 📫 How to reach me **moru348@gmail.com**
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=moru348&show_icons=true&locale=en&layout=compact" alt="moru348" /></p>
