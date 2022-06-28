@@ -1,6 +1,5 @@
-<h1 align="center">Hello, I am moru3</h1>
 <h3 align="center">KotlinとかJavaとかをいじってる高校生です</h3>
-
+ことりんだいすき。
 <p align="left"> <a href="https://twitter.com/moru3_48" target="blank"><img src="https://img.shields.io/twitter/follow/moru3_48?logo=twitter&style=for-the-badge" alt="moru3_48" /></a> </p>
 
 - 🔭 I’m currently working on **CompSQL**
